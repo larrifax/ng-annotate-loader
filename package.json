@@ -15,5 +15,9 @@
     "ng-annotate"
   ],
   "author": "Kristian Tryggestad",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "loader-utils": "^0.2.6",
+    "ng-annotate": "^0.15.4"
+  }
 }
