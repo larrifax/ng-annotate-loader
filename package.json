@@ -1,5 +1,5 @@
 {
-  "name": "ngAnnotate-loader",
+  "name": "ngannotate-loader",
   "version": "1.0.0",
   "description": "ng-annotate loader for webpack",
   "main": "index.js",
