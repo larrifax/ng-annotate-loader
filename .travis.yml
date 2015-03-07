@@ -1,0 +1,6 @@
+deploy:
+  provider: npm
+  email: "kristian.tryggestad@gmail.com"
+  api_key: "secure: PP25/sA3Ma2df27kspm6skYOF2uYzjsKesQ24ZhT/Stygy0E6WS3nWEK8JYloupJjkSW6QrD+uDyrE+LsnmEfSzCrR/a9ZTAcoXaHIfKENXQLFOQG9VAOrQLTWwlqHLEDFPfAn2Kb5wfu8QwCecF1q3UWOm/kR4/g/gVybZovdY="
+  on:
+    tags: true
