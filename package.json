@@ -16,8 +16,17 @@
   ],
   "author": "Kristian Tryggestad",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/larrifax/ng-annotate-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/larrifax/ng-annotate-loader/issues"
+  },
+  "homepage": "https://github.com/larrifax/ng-annotate-loader",
   "dependencies": {
     "loader-utils": "^0.2.6",
     "ng-annotate": "^0.15.4"
-  }
+  },
+  "devDependencies": {}
 }
