@@ -26,7 +26,8 @@
   "homepage": "https://github.com/larrifax/ng-annotate-loader",
   "dependencies": {
     "loader-utils": "^0.2.6",
-    "ng-annotate": "^0.15.4"
+    "ng-annotate": "^0.15.4",
+    "source-map": "^0.4.2"
   },
   "devDependencies": {}
 }
